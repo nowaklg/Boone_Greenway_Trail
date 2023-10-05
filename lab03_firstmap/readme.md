@@ -3,8 +3,6 @@ Lab 3 Web Map
 
 #### Map created by Lydia Nowak. 
 
-<<project name, brief intro, major functions, libraries, and data siurces of the map>>
-
 *Project Outline*
 
 This lab for Web Mapping was focused on the creation of an interactive map of a trail route. This map was created using Leaflet base maps from a remote server. I chose a basemap that was lightly colored and included topographic lines. These features seemed important to have on my map, since the trail route I chose has some variation in elevation. The mapped region on my web map is the Boone Greenway that runs through Clawson-Burnely Park.
